@@ -137,10 +137,9 @@ body {
 
 .content img{
     display: block;
-    margin-left: auto;
+    margin-left: 25%;
     margin-right: auto;
     width: 50%;
-    margin: 5px;
 }
 
 .content p{
@@ -148,6 +147,9 @@ body {
     margin-right: 5px;
 }
 
+.content h1{
+    text-align: center;
+}
 
 /* Form */
 .container .content-form {
